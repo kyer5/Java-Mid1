@@ -1,7 +1,6 @@
 package lang.immutable.test;
 
 public class ImmutableMyDateMain {
-
     public static void main(String[] args) {
         ImmutableMyDate immutableMyDate1 = new ImmutableMyDate(2003, 5, 5);
         ImmutableMyDate immutableMyDate2 = immutableMyDate1;

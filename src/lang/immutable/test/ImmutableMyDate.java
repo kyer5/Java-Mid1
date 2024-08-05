@@ -1,6 +1,7 @@
 package lang.immutable.test;
 
 public class ImmutableMyDate {
+
     private final int year;
     private final int month;
     private final int day;
